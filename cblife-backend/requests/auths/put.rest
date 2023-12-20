@@ -1,0 +1,8 @@
+PUT  http://localhost:3001/api/auths
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc0F1dGgiOnRydWUsInJvbGUiOiJhZG1pbiIsImlkIjoxLCJpYXQiOjE2NjQzNDQ4NzUsImV4cCI6MTY2NDM4ODA3NX0.WaKb_fZMGcCJHCpOmXzUYWHnbDfQYq--CF5CHw31jOk
+
+{
+    "username": "admin",
+    "password": "password"
+}

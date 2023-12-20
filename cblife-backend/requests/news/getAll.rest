@@ -1,0 +1,2 @@
+GET http://localhost:3001/api/news
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc0F1dGgiOnRydWUsImlkIjoxLCJpYXQiOjE2Nzc4MTgyODMsImV4cCI6MTY3Nzg2MTQ4M30.jZRY4BAi7PzLhp6498wwbzhlppYcvlBttTYkP_TdT6Q
